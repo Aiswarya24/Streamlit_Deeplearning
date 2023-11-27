@@ -4,7 +4,7 @@ from PIL import Image
 from tensorflow.keras.models import load_model
 from tensorflow.keras.datasets import imdb
 from tensorflow.keras.preprocessing.sequence import pad_sequences
-import pickle
+import pickle 
 
 # Load word index for Sentiment Classification
 word_to_index = imdb.get_word_index()
