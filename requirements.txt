@@ -1,5 +1,5 @@
 tensorflow
 pillow
+scikit-learn
 numpy
-opencv
-pandas
+
